@@ -1,5 +1,15 @@
-### Hi there 👋
+### Developer 👨‍💻 • Music lover 🎶 • Metalhead 🤘
+> To learn is to live
 
+- Full-time mobile developer in Paris.
+
+- Part-time mobile developer for SimpleLogin, an open source email forwarder & identity provider service.
+
+  - Github: https://github.com/simple-login
+
+  - Homepage: https://simplelogin.io/
+
+- Author of Metal Archives on iOS: https://itunes.apple.com/us/app/id1074038930
 <!--
 **ntnhon/ntnhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
